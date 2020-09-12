@@ -4,8 +4,7 @@ Example
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>I LOVE YOU </h1>
 
 </body>
 </html>
