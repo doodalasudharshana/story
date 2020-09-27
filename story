@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <title>
+<head
 <h3>story</h3>
+</head>
 </title>
 <body>
 <a
