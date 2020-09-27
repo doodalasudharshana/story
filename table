@@ -1,0 +1,29 @@
+<DOCTYPE! html>
+<html>
+<table style="width:100%">
+<style>
+table,th,td{
+border:lpx solid black;
+}
+</style>
+<tr>
+<th> </th>
+<th> <h1> google</h1> </th>
+<th> </th>
+</tr>
+<tr>
+<th> </th>
+<th> space</th>
+<th> </th>
+</tr>
+<tr>
+<th> </th>
+<th> google search  i am feeling lucky</th>
+<th> </th>
+</tr>
+<tr>
+<th> </th>
+<th> </th>
+<th> </th>
+</table>
+</html>
