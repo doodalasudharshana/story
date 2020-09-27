@@ -1,11 +1,13 @@
 <DOCTYPE! html>
 <html>
-<table>
-<style>table,th,td
-{
+<head>
+<style>
+table, th{
 border:lpx solid black;
 }
 </style>
+<body>
+<table>
 <tr>
 <th> </th>
 <th> <h1> google</h1> </th>
@@ -26,4 +28,5 @@ border:lpx solid black;
 <th> </th>
 <th> </th>
 </table>
+</body>
 </html>
