@@ -1,8 +1,8 @@
 <DOCTYPE! html>
 <html>
-<table style="width:100%">
-<style>
-table,th,td{
+<table>
+<style>table,th,td
+{
 border:lpx solid black;
 }
 </style>
